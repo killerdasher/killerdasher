@@ -1,5 +1,33 @@
 # 💫 About Me:
-You are an expert GitHub profile architect, cybersecurity researcher, OSINT analyst, AI engineer, and technical personal-brand strategist.<br><br>I am building my GitHub profile as a professional technical portfolio.<br><br>My main areas of interest are:<br><br>* Cybersecurity<br>* OSINT (Open-Source Intelligence)<br>* GEOINT<br>* AI / AI-assisted analysis<br>* Intelligence studies<br>* Automation<br>* Security research<br>* Python and software development<br>* Data analysis and visualization<br><br>My goal is NOT to make my profile look like a generic programmer profile.<br><br>I want it to communicate that I am someone who:<br><br>* Builds real and functional tools<br>* Studies intelligence analysis methodologies<br>* Works with OSINT and GEOINT<br>* Experiments with AI for research and analysis<br>* Understands cybersecurity concepts<br>* Documents projects properly<br>* Values practical research over empty claims<br>* Continuously learns and publishes useful work<br><br>Design a complete GitHub profile README for me.<br><br>Requirements:<br><br>1. Create a strong professional introduction.<br>2. Write a concise but memorable personal bio.<br>3. Create a "What I Work On" section.<br>4. Create a "Current Focus" section.<br>5. Create a technical skills section without exaggerating my expertise.<br>6. Create a Projects section designed around serious, useful projects.<br>7. Create a Research / Intelligence section.<br>8. Create a GitHub activity section.<br>9. Create a "Learning" section.<br>10. Create a contact section.<br>11. Keep the visual design modern, clean, dark, and technical.<br>12. Avoid excessive emojis.<br>13. Do not use cringe phrases such as "future hacker", "cyber warrior", "elite hacker", "digital ninja", etc.<br>14. Do not claim certifications, jobs, achievements, or expertise that I have not explicitly provided.<br>15. Do not fabricate statistics, GitHub contributions, project stars, or experience.<br>16. Make the README look like the profile of a serious young researcher/developer.<br>17. Use Markdown that works correctly on GitHub.<br>18. Keep animations and badges minimal and purposeful.<br>19. Make every section easy to maintain.<br>20. Prioritize substance over visual decoration.<br><br>Also recommend 4–6 GitHub projects that I should build and publish to make the profile demonstrate my actual abilities.<br><br>For each project provide:<br><br>* Project name<br>* One-line description<br>* Purpose<br>* Main features<br>* Suggested technology stack<br>* Difficulty<br>* What skill it demonstrates<br>* Suggested repository structure<br>* What would make it genuinely useful rather than just a demo<br><br>The projects should focus on legitimate defensive cybersecurity, OSINT, GEOINT, AI, intelligence analysis, and research.<br><br>Finally, produce:<br>A) The final GitHub README<br>B) A short GitHub bio<br>C) A profile tagline<br>D) Recommended repository list<br>E) A suggested pinned-repositories strategy<br><br>Make the result professional, technically credible, and realistic.<br>
+## About Me
+
+I'm interested in the space between technology, information, and intelligence.
+
+Most of what I do revolves around **cybersecurity, OSINT, GEOINT, AI, automation, and intelligence analysis**. I like understanding how systems work, figuring out how information can be collected and connected, and then building tools around what I learn.
+
+I spend a lot of my time experimenting. Some projects work, some don't, and quite a few end up teaching me more through breaking than through actually working.
+
+I'm particularly interested in **OSINT and GEOINT**, especially the process of turning scattered pieces of information into something that can actually be understood and analyzed. I'm also exploring how AI can be used to assist with research, analysis, automation, and large amounts of data without simply treating AI as a black box.
+
+On the technical side, I mostly work with **Python and software development**, while continuously learning more about cybersecurity, networking, data analysis, automation, and different intelligence methodologies.
+
+I'm still learning and I don't consider myself an expert in all of these areas. That's kind of the point of this GitHub.
+
+I want this profile to be a place where I can document what I'm building, publish experiments, write about things I'm learning, and keep track of how my skills develop over time.
+
+### Currently exploring
+
+* Cybersecurity & security research
+* OSINT & investigative research
+* GEOINT & geospatial analysis
+* Intelligence analysis methodologies
+* AI-assisted research and analysis
+* Automation & data processing
+* Python and software development
+* Data visualization and information analysis
+
+If something here looks interesting, feel free to look through the repositories. Most of the useful stuff is in the code.
+
 
 
 # 💻 Tech Stack:
