@@ -1,5 +1,4 @@
 # 💫 About Me:
-## About Me
 
 I'm interested in the space between technology, information, and intelligence.
 
